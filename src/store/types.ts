@@ -1,0 +1,1 @@
+export const CHAGE_ACTIVE: string = 'CHANGE_ACTIVE'
