@@ -1,0 +1,16 @@
+.progress-bar {
+  display: flex;
+  justify-content: center;
+
+  &__item {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: rgba(63, 81, 181, .5);
+    margin: 0 5px;
+
+    &.active {
+      background-color: rgba(63, 81, 181, 1);
+    }
+  }
+}
