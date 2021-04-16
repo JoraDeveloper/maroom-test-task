@@ -1,6 +1,8 @@
 # maroom-test-task
 ## Тестовое задание для maroom.ru
 
+DEMO: https://protected-dusk-49759.herokuapp.com/
+
 ## Инструкция по запуску:
 ```sh
 npm install 
