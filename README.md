@@ -12,8 +12,8 @@ npm run server
 - Webpack
 
 ## Зависимости:
-[MATERIAL-UI](https://material-ui.com/)
-[React Hook Form](https://react-hook-form.com/)
+ - [MATERIAL-UI](https://material-ui.com/)
+ - [React Hook Form](https://react-hook-form.com/)
 
 ## Дополнительно: Масштабируемость
 ### Добавление нового шага:
@@ -72,7 +72,7 @@ const form = {
         required: 'You forgot to give a name',
         minLength: {
             value: 3,
-            message: 'Max length is 3'
+            message: 'Min length is 3'
         }
     },
    ...
