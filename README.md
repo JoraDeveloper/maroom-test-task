@@ -4,7 +4,7 @@
 ## Инструкция по запуску:
 ```sh
 npm install 
-npm run server
+npm run go
 ```
 ## Используемые технологии:
 - HTML, SCSS, TS
